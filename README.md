@@ -4,12 +4,12 @@ Student project for Software Engineering class at UHD
 If you are working on a task listed below, please type your name next to it. Focus on the gradebook class
 Need to do list
 
-  -UML documentation
+  +UML documentation
 
-  -use case documentation
+  +use case documentation
 
-
-    GradeBook Class
+  
+  GradeBook Class
 
     +course struct
 
@@ -25,7 +25,9 @@ Need to do list
 
       -array for course struct
 
-    +function to write a student file and save it as a .txt file (the file name should be the id + .txt ex. "012345.txt") in the GradeBook folder
+    +function to write a student file and save it as a .txt file in the GradeBook folder
+    
+      -(the file name should be the id + .txt ex. "012345.txt")
 
     +function to search student file in the GradeBook folder
 
