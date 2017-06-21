@@ -6,7 +6,7 @@ Need to do list
 
   +UML documentation
 
-  +use case documentation
+  +Use-Case documentation
 
   
   GradeBook Class
@@ -31,12 +31,15 @@ Need to do list
 
     +function to search student file in the GradeBook folder
 
-      +return type: string array, split by lines
+      -return type: string array, split by lines
 
     +function to edit a student file in the gradebook
 
-      +return type: string array, split by lines
+      -return type: string array, split by lines
+     
+    +function to sort a student file (mostly just classes part)
     
+      -use a temp.txt
    
    Directory
   
@@ -49,5 +52,9 @@ Need to do list
       -last name
   
     +function to edit a student in the directory .txt
+    
+    +function to sort the directory (by last name)
+    
+      -use a temp.txt
     
     
