@@ -13,7 +13,7 @@ Need to do list
   
   +course struct
   
-   -string name
+    -string name
  
     -int array for grades
   
