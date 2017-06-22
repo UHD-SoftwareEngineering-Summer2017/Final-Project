@@ -56,5 +56,11 @@ Need to do list
     +function to sort the directory (by last name)
     
       -use a temp.txt
+      
+  +qt testing
+  
+  +doxygen documentation
+  
+  +IEEE SPMP file
     
     
