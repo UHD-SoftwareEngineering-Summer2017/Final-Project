@@ -7,6 +7,14 @@ Need to do list
   +UML documentation
 
   +Use-Case documentation
+       
+  +JUnit/IntelliJ testing
+  
+  +Doxygen documentation
+  
+  +IEEE SPMP file
+  
+  ///////////////////////////////////////////////////////////////////////////
 
   
   GradeBook Class
@@ -56,11 +64,5 @@ Need to do list
     +function to sort the directory (by last name)
     
       -use a temp.txt
-      
-  +qt testing
-  
-  +doxygen documentation
-  
-  +IEEE SPMP file
-    
+
     
